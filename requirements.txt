@@ -2,3 +2,5 @@ requests
 playwright
 selenium_stealth
 selenium
+Flask
+TikTokApi
